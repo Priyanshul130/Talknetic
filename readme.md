@@ -1,2 +1,1 @@
-readme
-sss
+\*TALKNETIC*\
