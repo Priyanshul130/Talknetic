@@ -1,1 +1,1 @@
-\*TALKNETIC*\
+*TALKNETIC*
