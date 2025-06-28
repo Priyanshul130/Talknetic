@@ -8,15 +8,9 @@
 - 🤖 Custom-trained LLM for smart replies  
 - 🗣️ TTS using your own cloned voice  
 - 📞 WhatsApp-style calling with WebRTC  
-- 🔥 Real-time chat via Firebase  
 - 🔐 Secure auth and call logs
 
 ---
-
-## 🛠️ Tech Stack
-- **Frontend:** React / Next.js (hosted on Vercel)  
-    
-- **AI Engine:** PyTorch LLM + TTS (tacotron2 / )  
 
 
 📬 Contact
